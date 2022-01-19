@@ -4,13 +4,44 @@
     background-color: transparent;
 }
 
-footer{
-    background-color: cyan;
-
+/* Quienes somos */
+#quienessomos{
+    background-color: black;
 }
 
-#footera{
+#cardcol{
+    background-color: black;
+}
+
+#fasimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50px;
+  }
+
+/* Destacados */
+.destacados{
+    background-color: black;
+}
+
+/* Contacto */
+#contacto{
+    background-color: black;
+}
+
+footer{
+    background-color: #17a2b8;
+    /* text-: white; */
+}
+
+/* .card-header{
+    margin-right: auto;
+    background-color: green;
+} */
+
+#footericonos{
     color: white;
     text-decoration: none;
-
+    height: 75px;
 }
