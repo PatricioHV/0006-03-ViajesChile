@@ -1,5 +1,7 @@
-#barra{
-    background-color: transparent !important;
+
+.navbar{
+    /* background: none; */
+    background-color: transparent;
 }
 
 footer{
