@@ -9,15 +9,14 @@
 }
 
 #fasimg {
-    /* display: block; */
     margin-left: auto;
     margin-right: auto;
     width: 50px;
-  }
+}
 
-  p .card-text{
+p .card-text{
     font-family: 'Open Sans', sans-serif;
-  }
+}
 
 /* Destacados */
 .destacados{
@@ -32,6 +31,7 @@
 .card-head{
     font-weight: 500;
 }
+
 /* Footer */
 footer{
     background-color: #17a2b8;
